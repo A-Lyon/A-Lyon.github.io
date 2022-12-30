@@ -7,7 +7,7 @@ layout: default
 > Phone: 702-375-9634
 > Fort Collins, CO
 > [LinkedIn](https://www.linkedin.com/in/andrew-lyon-1343a621b/).
-> [GitHub](https://github.com/A-Lyon/Public_Code).
+> ![GitLogo](https://github.com/A-Lyon/A-Lyon.github.io/Images/GitLogo.png)[GitHub](https://github.com/A-Lyon/Public_Code).
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
