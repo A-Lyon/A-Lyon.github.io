@@ -2,6 +2,13 @@
 layout: default
 ---
 
+## Contact Information:
+> Email: andrew.lyon@colostate.edu
+> Phone: 702-375-9634
+> Fort Collins, CO
+> [LinkedIn](https://www.linkedin.com/in/andrew-lyon-1343a621b/).
+> [GitHub](https://github.com/A-Lyon/Public_Code).
+
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
@@ -94,7 +101,7 @@ end
 
 ### Small image
 
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
+![Octocat](https://github.com/A-Lyon/A-Lyon.github.io/Images/GitLogo.png)
 
 ### Large image
 
