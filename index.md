@@ -10,14 +10,19 @@ Andrew Lyon
 
 > [![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/A-Lyon/Public_Code/)](https://github.com/A-Lyon/Public_Code) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andrew-lyon-1343a621b)](https://www.linkedin.com/in/andrew-lyon-1343a621b/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:simba3003@gmail.com)](mailto:simba3003@gmail.com)
 
-// > [![GitHub](Images/GitLogo.png)](https://github.com/A-Lyon/Public_Code).
+## About Me:
 
-[![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/A-Lyon/Public_Code/)](https://github.com/A-Lyon/Public_Code)
+## Education:
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andrew-lyon-1343a621b)](https://www.linkedin.com/in/andrew-lyon-1343a621b/)
+## Work Experience:
 
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:simba3003@gmail.com)](mailto:simba3003@gmail.com)
+## Projects:
 
+## 
+
+
+
+|+:------------------------------------------------------------:+|
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
@@ -130,6 +135,16 @@ end
 <dt>Color</dt>
 <dd>Green</dd>
 </dl>
+
+
+// > [![GitHub](Images/GitLogo.png)](https://github.com/A-Lyon/Public_Code).
+
+[![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/A-Lyon/Public_Code/)](https://github.com/A-Lyon/Public_Code)
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andrew-lyon-1343a621b)](https://www.linkedin.com/in/andrew-lyon-1343a621b/)
+
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:simba3003@gmail.com)](mailto:simba3003@gmail.com)
+
 
 ```
 Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
