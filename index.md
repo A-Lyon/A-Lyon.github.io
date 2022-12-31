@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Andrew Lyon
+image: (Images/Profile.jpg)
 ---
 
 
@@ -14,27 +15,29 @@ title: Andrew Lyon
 ## About Me:
 
 > I am graduating with a Bachelors of Science in Computer Science in May 2022. I have focused my course work on software engineering, human computer interfacing, and data structures. I am currently a data structures teachers assistant, and I work in the natural user interfaces (NUI) lab at Colorado State University (CSU). 
-
+>
 > I earned a Bachelors of Science in Biological Sciences from CSU in 2014. As a biologist I managed the bacterial fruit blotch department of a plant pathology laboratory (Eurofins Biodiagnostics) for 6 years. I returned to CSU for computer science as I witnessed the biology field progressing into computational models and machines.
-
+>
 > Prior to my college accomplishments, I served as an airborne ranger in the Army as part of the Special Operations Command (SOCOM) unit of the 1st Ranger Battalion, 75th Ranger Regiment. I deployed to Afghanistan and Iraq.
 
 ## Education:
 
 > 2021-2023:
 > [B.S. Computer Science](https://compsci.colostate.edu/) 
-> Deans List.
-
+>
 > 2011-2014
 > [B.S. Biological Science](https://www.biology.colostate.edu/)
-> Deans List.
-
+>
 > 2001-2005
 > [Millard West High School](https://mwhs.mpsomaha.org/)
 
-## Work Experience:
-
 ## Projects:
+
+### Data Structures
+
+### NUI Lab
+
+### Coursework
 
 ## 
 
