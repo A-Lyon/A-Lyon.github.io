@@ -7,19 +7,30 @@ title: Andrew Lyon
 
 ## Contact Me:
 
-> [![Location](Images/Location.png)] Location: Fort Collins, CO
+![Location](Images/Location.png) Fort Collins, CO
 
-> [![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/A-Lyon/Public_Code/)](https://github.com/A-Lyon/Public_Code) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andrew-lyon-1343a621b)](https://www.linkedin.com/in/andrew-lyon-1343a621b/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:simba3003@gmail.com)](mailto:simba3003@gmail.com)
+[![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/A-Lyon/Public_Code/)](https://github.com/A-Lyon/Public_Code) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andrew-lyon-1343a621b)](https://www.linkedin.com/in/andrew-lyon-1343a621b/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:simba3003@gmail.com)](mailto:simba3003@gmail.com)
 
 ## About Me:
 
 > I am graduating with a Bachelors of Science in Computer Science in May 2022. I have focused my course work on software engineering, human computer interfacing, and data structures. I am currently a data structures teachers assistant, and I work in the natural user interfaces (NUI) lab at Colorado State University (CSU). 
-> I earned a Bachelors of Science in Biological Sciences from CSU in 2013. As a biologist I managed the bacterial fruit blotch department of a plant pathology laboratory (Eurofins Biodiagnostics) for 6 years. I returned to CSU for computer science as I witnessed the biology field progressing into computational models and machines.
+
+> I earned a Bachelors of Science in Biological Sciences from CSU in 2014. As a biologist I managed the bacterial fruit blotch department of a plant pathology laboratory (Eurofins Biodiagnostics) for 6 years. I returned to CSU for computer science as I witnessed the biology field progressing into computational models and machines.
+
 > Prior to my college accomplishments, I served as an airborne ranger in the Army as part of the Special Operations Command (SOCOM) unit of the 1st Ranger Battalion, 75th Ranger Regiment. I deployed to Afghanistan and Iraq.
 
 ## Education:
 
-> B.S. [Computer Science](https://compsci.colostate.edu/)
+> 2021-2023:
+> [B.S. Computer Science](https://compsci.colostate.edu/) 
+> Deans List.
+
+> 2011-2014
+> [B.S. Biological Science](https://www.biology.colostate.edu/)
+> Deans List.
+
+> 2001-2005
+> [Millard West High School](https://mwhs.mpsomaha.org/)
 
 ## Work Experience:
 
