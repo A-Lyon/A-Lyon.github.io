@@ -1,10 +1,11 @@
 ---
 layout: default
 title: Andrew Lyon
-image: (Images/Profile.jpg)
 ---
 
+## Welcome to my page!
 
+![me](Images/Profile.jpg)
 
 ## Contact Me:
 
@@ -31,13 +32,13 @@ image: (Images/Profile.jpg)
 > 2001-2005
 > [Millard West High School](https://mwhs.mpsomaha.org/)
 
-## Projects:
+## Projects/Code:
 
-### Data Structures
+### [Data Structures](https://github.com/A-Lyon/Public_Code/DataStructures)
 
-### NUI Lab
+### [NUI Lab](https://github.com/A-Lyon/Public_Code/NUIProjects)
 
-### Coursework
+### [Coursework](https://github.com/A-Lyon/Public_Code/Courses)
 
 ## 
 
