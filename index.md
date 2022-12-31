@@ -11,9 +11,9 @@ layout: default
 
 > [LinkedIn](https://www.linkedin.com/in/andrew-lyon-1343a621b/).
 
-> ![GitLogo](https://github.com/A-Lyon/A-Lyon.github.io/Images/GitLogo.png)[GitHub](https://github.com/A-Lyon/Public_Code).
+> [![GitLogo](Images/GitLogo.png)](https://github.com/A-Lyon/Public_Code).
 
-[![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/Defcon27/)]((https://github.com/A-Lyon/Public_Code).
+[![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square & logo=github & link=https://github.com/A-Lyon/Public_Code/)](https://github.com/A-Lyon/Public_Code).
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hemanthkollipara/)](https://www.linkedin.com/in/andrew-lyon-1343a621b/).
 
