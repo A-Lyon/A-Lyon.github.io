@@ -4,13 +4,9 @@ layout: default
 
 ## Contact Me:
 
-> Fort Collins, CO
+> Location: Fort Collins, CO
 
 > [![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/A-Lyon/Public_Code/)](https://github.com/A-Lyon/Public_Code) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andrew-lyon-1343a621b)](https://www.linkedin.com/in/andrew-lyon-1343a621b/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:simba3003@gmail.com)](mailto:simba3003@gmail.com)
-
-> [LinkedIn](https://www.linkedin.com/in/andrew-lyon-1343a621b/).
-
-> [![GitHub](Images/GitLogo.png)](https://github.com/A-Lyon/Public_Code).
 
 > [![GitHub](Images/GitLogo.png)](https://github.com/A-Lyon/Public_Code).
 
