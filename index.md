@@ -4,10 +4,21 @@ layout: default
 
 ## Contact Information:
 > Email: andrew.lyon@colostate.edu
+
 > Phone: 702-375-9634
+
 > Fort Collins, CO
+
 > [LinkedIn](https://www.linkedin.com/in/andrew-lyon-1343a621b/).
+
 > ![GitLogo](https://github.com/A-Lyon/A-Lyon.github.io/Images/GitLogo.png)[GitHub](https://github.com/A-Lyon/Public_Code).
+
+[![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/Defcon27/)]((https://github.com/A-Lyon/Public_Code).
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hemanthkollipara/)](https://www.linkedin.com/in/andrew-lyon-1343a621b/).
+
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:defcon.sentinal95@gmail.com)](mailto:simba3003@gmail.com)
+
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
@@ -101,11 +112,11 @@ end
 
 ### Small image
 
-![Octocat](https://github.com/A-Lyon/A-Lyon.github.io/Images/GitLogo.png)
+![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
 
 ### Large image
 
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+![Gmail](Images/Gmail.png)
 
 
 ### Definition lists can be used with HTML syntax.
