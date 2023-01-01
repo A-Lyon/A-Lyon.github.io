@@ -15,7 +15,7 @@ title: Andrew Lyon
 
 ## About Me:
 
-> I am graduating with a Bachelors of Science in Computer Science in May 2022. I have focused my course work on software engineering, human computer interfacing, and data structures. I am currently a data structures teachers assistant, and I work in the natural user interfaces (NUI) lab at Colorado State University (CSU). 
+> I am graduating with a Bachelors of Science in Computer Science in May 2022. I have focused my course work on software engineering, human computer interaction, and data structures. I am currently a data structures teachers assistant, and I work in the natural user interfaces (NUI) lab at Colorado State University (CSU). 
 >
 > I earned a Bachelors of Science in Biological Sciences from CSU in 2014. As a biologist I managed the bacterial fruit blotch department of a plant pathology laboratory (Eurofins Biodiagnostics) for 6 years. I returned to CSU for computer science as I witnessed the biology field progressing into computational models and machines.
 >
