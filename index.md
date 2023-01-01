@@ -5,7 +5,7 @@ title: Andrew Lyon
 
 ## Welcome to my page!
 
-![me](Images/Profile.jpg)
+[me](Images/camp.jpg)
 
 ## Contact Me:
 
