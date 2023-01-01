@@ -5,7 +5,7 @@ title: Andrew Lyon
 
 ## Welcome to my page!
 
-[me](Images/camp.jpg)
+![me](Images/camp.jpg)
 
 ## Contact Me:
 
@@ -34,13 +34,16 @@ title: Andrew Lyon
 
 ## Projects/Code:
 
-### [Data Structures](https://github.com/A-Lyon/Public_Code/DataStructures)
+> Here is a selection of code that I have produced. These may be full files, or portions of projects that I have worked on as part of a team.
 
-### [NUI Lab](https://github.com/A-Lyon/Public_Code/NUIProjects)
+### [Data Structures](https://github.com/A-Lyon/Public_Code/tree/main/DataStructures)
+This collection of data structures were produced by me for a data structures class at CSU. I was hired to teach to students in lab sections for this class after . These files have my implementations of the data structures to accomplish the goals set by the class, many include test files.
 
-### [Coursework](https://github.com/A-Lyon/Public_Code/Courses)
+### [NUI Lab](https://github.com/A-Lyon/Public_Code/tree/main/NUIProjects)
+These partial files were produced by me on team projects for the NUI lab. This code is protected by Colorado State Universities 
 
-## 
+### [Coursework](https://github.com/A-Lyon/Public_Code/tree/main/Courses)
+
 
 
 
