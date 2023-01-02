@@ -69,7 +69,7 @@ title: Andrew Lyon
 > This collection of data structures were produced by me for a data structures class at CSU. I was hired to teach to students in lab sections for this class after . These files have my implementations of the data structures to accomplish the goals set by the class, many include test files.
 >
 > ### [NUI Lab](https://github.com/A-Lyon/Public_Code/tree/main/NUIProjects)
-> These partial files were produced by me on team projects for the NUI lab. This code is protected by Colorado State Universities [Copywrite](https://marcomm.colostate.edu/copyright-guidelines/). Any use of this code without my consent will violate this copywrite.
+> These partial files were produced by me on team projects for the NUI lab. This code is protected by Colorado State Universities [Copyright](https://marcomm.colostate.edu/copyright-guidelines/). Any use of this code without my consent will violate this copyright.
 >
 > ### [Coursework](https://github.com/A-Lyon/Public_Code/tree/main/Courses)
 > This collection of code contains excerpts from CS classes that I have taken. The coding languages and assignents vary greatly.
