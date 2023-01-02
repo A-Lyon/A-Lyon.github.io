@@ -35,11 +35,26 @@ title: Andrew Lyon
 ## Skills
 
 > Through my education at CSU I have gained experience in several coding methodologies, teamwork exercises, and project completion. 
+> - Object Oriented Programming
+> - GitHub Integration
+>   - GitHub Pages
+>   - GitHub Projects
+>   - ZenHub
+> - SCRUM Method
+>   - Scrum Leader
+>   - Scrum Recorder
+> - Languages
+>   - Java
+>   - C#
+>   - C
+>   - C++
+>   - Python
+>   - Linux
 
 ## Projects/Code:
 
 > Here is a selection of code that I have produced. These may be full files, or portions of projects that I have worked on as part of a team. Click on the headers to be taken to my public github collection of code that I have written. Any code that was part of a larger project will only contain files that I have written.
-
+>
 > ### [Data Structures](https://github.com/A-Lyon/Public_Code/tree/main/DataStructures)
 > This collection of data structures were produced by me for a data structures class at CSU. I was hired to teach to students in lab sections for this class after . These files have my implementations of the data structures to accomplish the goals set by the class, many include test files.
 >
