@@ -32,17 +32,22 @@ title: Andrew Lyon
 > 2001-2005
 > [Millard West High School](https://mwhs.mpsomaha.org/)
 
+## Skills
+
+> Through my education at CSU I have gained experience in several coding methodologies, teamwork exercises, and project completion. 
+
 ## Projects/Code:
 
-> Here is a selection of code that I have produced. These may be full files, or portions of projects that I have worked on as part of a team.
+> Here is a selection of code that I have produced. These may be full files, or portions of projects that I have worked on as part of a team. Click on the headers to be taken to my public github collection of code that I have written. Any code that was part of a larger project will only contain files that I have written.
 
-### [Data Structures](https://github.com/A-Lyon/Public_Code/tree/main/DataStructures)
-This collection of data structures were produced by me for a data structures class at CSU. I was hired to teach to students in lab sections for this class after . These files have my implementations of the data structures to accomplish the goals set by the class, many include test files.
-
-### [NUI Lab](https://github.com/A-Lyon/Public_Code/tree/main/NUIProjects)
-These partial files were produced by me on team projects for the NUI lab. This code is protected by Colorado State Universities 
-
-### [Coursework](https://github.com/A-Lyon/Public_Code/tree/main/Courses)
+> ### [Data Structures](https://github.com/A-Lyon/Public_Code/tree/main/DataStructures)
+> This collection of data structures were produced by me for a data structures class at CSU. I was hired to teach to students in lab sections for this class after . These files have my implementations of the data structures to accomplish the goals set by the class, many include test files.
+>
+> ### [NUI Lab](https://github.com/A-Lyon/Public_Code/tree/main/NUIProjects)
+> These partial files were produced by me on team projects for the NUI lab. This code is protected by Colorado State Universities 
+>
+> ### [Coursework](https://github.com/A-Lyon/Public_Code/tree/main/Courses)
+> This collection of code contains excerpts from CS classes that I have taken. The coding languages and assignents vary greatly. 
 
 
 
