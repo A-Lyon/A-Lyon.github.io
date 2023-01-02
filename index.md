@@ -50,6 +50,16 @@ title: Andrew Lyon
 >   - C++
 >   - Python
 >   - Linux
+>   - JavaScript
+>      - Node
+> - REST API
+> - Game Engine
+>   - Unity
+>   - Unreal Engine
+>      - Visual Scripting
+> - Algorithms
+>   - Complexity
+>   - Memoization
 
 ## Projects/Code:
 
@@ -62,10 +72,10 @@ title: Andrew Lyon
 > These partial files were produced by me on team projects for the NUI lab. This code is protected by Colorado State Universities 
 >
 > ### [Coursework](https://github.com/A-Lyon/Public_Code/tree/main/Courses)
-> This collection of code contains excerpts from CS classes that I have taken. The coding languages and assignents vary greatly. 
+> This collection of code contains excerpts from CS classes that I have taken. The coding languages and assignents vary greatly.
 
 
-
+/*
 
 |+:------------------------------------------------------------:+|
 
@@ -198,3 +208,4 @@ Long, single-line code blocks should not wrap. They should horizontally scroll i
 ```
 The final element.
 ```
+*/
