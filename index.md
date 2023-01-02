@@ -67,7 +67,7 @@ title: Andrew Lyon
 
 ## Projects/Code:
 
-> Here is a selection of code that I have produced. These may be full files, or portions of projects that I have worked on as part of a team. Click on the headers to be taken to my public github collections of code that I have written. Any code that was part of a larger project will only contain files that I have written personally.
+> Here is a selection of code that I have produced. These may be full files, or portions of projects that I have worked on as part of a team. Click on the headers to be taken to my public github repository with collections of code that I have written. Any code that was part of a larger project will only contain files that I have written personally.
 >
 > ### [Data Structures](https://github.com/A-Lyon/Public_Code/tree/main/DataStructures)
 > This collection of data structures were produced by me for a data structures class at CSU. I was hired to teach to students in lab sections for this class after . These files have my implementations of the data structures to accomplish the goals set by the class, many include test files.
