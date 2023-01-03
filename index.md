@@ -80,4 +80,4 @@ title: Andrew Lyon
 
 ## Thank you for visiting. Have a great day! 
 
-![me](Images/Ranger Creed.jpg)
+![creed](Images/RangerCreed.jpg)
