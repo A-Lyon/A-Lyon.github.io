@@ -79,3 +79,5 @@ title: Andrew Lyon
 > This collection of code contains excerpts from CS classes that I have taken. The coding languages and assignents vary greatly.
 
 ## Thank you for visiting. Have a great day! 
+
+![me](Images/Ranger Creed.jpg)
