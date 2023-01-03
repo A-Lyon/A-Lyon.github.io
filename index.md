@@ -15,11 +15,11 @@ title: Andrew Lyon
 
 ## About Me:
 
-> I am graduating with a Bachelors of Science in Computer Science in May 2022. I have focused my course work on software engineering, human computer interaction, and data structures. I am currently a data structures teachers assistant, and I work in the natural user interfaces (NUI) lab at Colorado State University (CSU). 
+> I am graduating with a Bachelors of Science in Computer Science in May 2023. I have focused my course work on software engineering, human computer interaction, and data structures. I am currently a data structures teachers assistant, and I work in the natural user interfaces (NUI) lab at Colorado State University (CSU). Several courses that I have completed at CSU required extensive group work. We used tools like the SCRUM method in conjunction with GitHub and ZenHub to plan, produce, and demonstrate usable software to mock-clients (our professors).
 >
-> I earned a Bachelors of Science in Biological Sciences from CSU in 2014. As a biologist I managed the bacterial fruit blotch department of a plant pathology laboratory (Eurofins Biodiagnostics) for 6 years. I returned to CSU for computer science as I witnessed the biology field progressing into computational models and machines.
+> I earned a Bachelors of Science in Biological Sciences from CSU in 2014. As a biologist I managed the bacterial fruit blotch department of a plant pathology laboratory (Eurofins Biodiagnostics) for 6 years. In this role I saw the beneficial impact of technology on biological research, and decided to return to school to learn computer science.
 >
-> Prior to my college accomplishments, I served as an airborne ranger in the Army as part of the Special Operations Command (SOCOM) unit of the 1st Ranger Battalion, 75th Ranger Regiment. I deployed to Afghanistan and Iraq.
+> Prior to my college accomplishments, I served in 1st Ranger Battalion of the 75th Ranger Regiment as an Airborne Ranger. As part of Special Operations Command (SOCOM) I deployed to Afghanistan and Iraq. My military experience provided me with core values of a stalwart work ethic, galiant leadership, and humble professionalism. I do my best to apply these values to every aspect of my life.
 
 ## Education:
 
